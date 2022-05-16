@@ -27,7 +27,7 @@ This is important here because we have 2 managers about to retire. We would like
 ### Table 3. Mentorship Elegibility
 ![Mentorship elegibility ](https://github.com/LAURYMEOW/Pewlett-Hackard-Analysis/blob/main/mentorship_elegibility.png)
 
-If we do the Count by the number of employees we have a quantity of 1549 employees who are eligible to be mentors. A considerable amount to avoid a Tsunami Silver.
+If we do the Count by the number of employees we have a quantity of 1,549 employees who are eligible to be mentors. A considerable amount to avoid a Tsunami Silver.
 In the table it can be seen that these employees have experience in various areas of the company which will allow covering the minimum training requirements for new employees.
 
 ## Summary:
