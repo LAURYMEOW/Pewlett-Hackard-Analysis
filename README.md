@@ -16,7 +16,7 @@ We are asked determine the number of retiring employees per title, and identify 
 * This unique_table helped us to create the retiring_table that contains the number of titles filled by employees who will retiring. This way we have a better idea of the positions to be filled by the departure of the next retirees and evaluate the number of training programs that need to be implemented.
 
 ### Table 2. Retiring Titles
-![Retiring titles ]()
+![Retiring titles ](https://github.com/LAURYMEOW/Pewlett-Hackard-Analysis/blob/main/retiring_titles.png)
 
 In this last table it can be seen that the majority of future retirees are Senior Engineers followed by Senior Staff.
 Let's remember that there are certain doubts about updating the databases because some inconsistencies were found while we were doing the data analysis. Among them, the one related to the number of managers with respect to the number of departments.
