@@ -36,11 +36,23 @@ In the table it can be seen that these employees have experience in various area
 To find out how many roles will need to be filled, the count clause is applied to the unique_titles table, which is the table that returns the worker number without duplication.
 The result is 72,458 spaces to fill among the 9 departments.
 
-Image 1. Count
+### Image 1. Count
 
 ![Count](https://github.com/LAURYMEOW/Pewlett-Hackard-Analysis/blob/main/Count_summary.png)
 
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 It is known that we will have 72,458 slots and 1,549 potential mentors. If we make a correspondence rule, each mentor would have to advise a group of approximately 46 employees.
 However, we are not certain that all future retirees agree to be mentors, and the information on upcoming retirements between departments is not symmetrical.
-A couple more analyzes are required to determine the exact number of workers to retire by department as well as to calculate how many future mentors are available per department. In Image 2. we can see an example of a query to carry out this analysis. In this code, the information of the employees to retire is filtered by department, specifically by Sales and a count is applied to said table to know the number of vacancies. It is recommended to apply it to all departments as well as generate a query that gives us the info of mentors by area.  In this way we can evaluate more accurately if the company has enough trained personnel to cover the training program for the total number of vacancies.
+A couple more analyzes are required to determine the exact number of workers to retire by department as well as to calculate how many future mentors are available per department. In Image 2  we can see an example of a query to carry out this analysis. 
+
+### Image 2. Example
+
+![Example]()
+
+In this code, the information of the employees to retire is filtered by department, specifically by Sales and a count is applied to said table to know the number of vacancies. At the same query we can filter the titles to find the position we are interested in reviewing and determine if we have enough potential mentors for that department. Image 3 shows an example where it was searched how many retirees there would be in the sales department with the position of manager. It is recommended to apply it to all departments as well as generate a query that gives us the info of potential mentors by area.  
+
+### Table 4. Sales Department Example
+
+![Sales department example]()
+
+In this way we can evaluate more accurately if the company has enough trained personnel to cover the training program for the total number of vacancies.
