@@ -25,7 +25,7 @@ This is important here because we have 2 managers about to retire. We would like
 *To determine the employees eligible for the Mentorship Program, a new table was created where the personal information of the employees is filtered, as well as the information on their relationship with the company and the last position obtained. This information was filtered so that only employees who are about to retire and who also have a certain age that guarantees their experience appear. The result is as follows:
 
 ### Table 3. Mentorship Elegibility
-![Mentorship elegibility ]()
+![Mentorship elegibility ](https://github.com/LAURYMEOW/Pewlett-Hackard-Analysis/blob/main/mentorship_elegibility.png)
 
 If we do the Count by the number of employees we have a quantity of 1549 employees who are eligible to be mentors. A considerable amount to avoid a Tsunami Silver.
 In the table it can be seen that these employees have experience in various areas of the company which will allow covering the minimum training requirements for new employees.
