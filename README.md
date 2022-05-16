@@ -11,7 +11,7 @@ We are asked determine the number of retiring employees per title, and identify 
 * For the above requirement, we had to create a table of unique_titles where we retrieve the personal information of the employees filtering it so that only the employees who are about to retire appear  plus the title and the date they held the last position, thus guaranteeing the elimination of duplicate data.
 
 ### Table 1. Unique Titles
-![Unique titles]()
+![Unique titles](https://github.com/LAURYMEOW/Pewlett-Hackard-Analysis/blob/main/unique_titles.png)
 
 * This unique_table helped us to create the retiring_table that contains the number of titles filled by employees who will retiring. This way we have a better idea of the positions to be filled by the departure of the next retirees and evaluate the number of training programs that need to be implemented.
 
