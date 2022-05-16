@@ -24,7 +24,7 @@ This is important here because we have 2 managers about to retire. We would like
 
 *To determine the employees eligible for the Mentorship Program, a new table was created where the personal information of the employees is filtered, as well as the information on their relationship with the company and the last position obtained. This information was filtered so that only employees who are about to retire and who also have a certain age that guarantees their experience appear. The result is as follows:
 
-Table 3. Mentorship Elegibility
+### Table 3. Mentorship Elegibility
 ![Mentorship elegibility ]()
 
 If we do the Count by the number of employees we have a quantity of 1549 employees who are eligible to be mentors. A considerable amount to avoid a Tsunami Silver.
@@ -37,6 +37,7 @@ To find out how many roles will need to be filled, the count clause is applied t
 The result is 72,458 spaces to fill among the 9 departments.
 
 Image 1. Count
+
 ![Count](https://github.com/LAURYMEOW/Pewlett-Hackard-Analysis/blob/main/Count_summary.png)
 
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
