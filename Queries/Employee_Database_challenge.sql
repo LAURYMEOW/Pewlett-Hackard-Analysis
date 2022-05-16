@@ -57,3 +57,19 @@ FROM unique_titles
 
 SELECT COUNT(emp_no)
 FROM mentorship_elegibility
+
+SELECT ut.emp_no,
+	ut.first_name, 
+	ut.last_name, 
+	di.dept_name,
+	ut.title
+INTO sales_info_summary
+FROM unique_titles AS ut
+INNER JOIN dept_info AS di
+ON (ut.emp_no = di.emp_no)
+WHERE dept_name IN('Sales')
+ORDER BY ut.emp_no;
+
+SELECT COUNT (emp_no) 
+FROM sales_info_summary
+
