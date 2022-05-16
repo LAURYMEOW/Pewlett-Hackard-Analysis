@@ -37,7 +37,7 @@ To find out how many roles will need to be filled, the count clause is applied t
 The result is 72,458 spaces to fill among the 9 departments.
 
 Image 1. Count
-![Count]()
+![Count](https://github.com/LAURYMEOW/Pewlett-Hackard-Analysis/blob/main/Count_summary.png)
 
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 It is known that we will have 72,458 slots and 1,549 potential mentors. If we make a correspondence rule, each mentor would have to advise a group of approximately 46 employees.
