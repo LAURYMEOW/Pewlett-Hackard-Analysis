@@ -53,8 +53,8 @@ A couple more analyzes are required to determine the exact number of workers to 
 
 In this code, the information of the employees to retire is filtered by department, specifically by Sales and a count is applied to said table to know the number of vacancies. At the same query we can filter the titles to find the position we are interested in reviewing and determine if we have enough potential mentors for that department. Image 3 shows an example where it was searched how many retirees there would be in the sales department with the position of manager. It is recommended to apply it to all departments as well as generate a query that gives us the info of potential mentors by area.  
 
-### Table 4. Sales Department Example
+### Table 4. Sales Department Example: Filter
 
-![Sales department example]()
+![Sales department example](https://github.com/LAURYMEOW/Pewlett-Hackard-Analysis/blob/main/Filter_Summary2.png)
 
 In this way we can evaluate more accurately if the company has enough trained personnel to cover the training program for the total number of vacancies.
